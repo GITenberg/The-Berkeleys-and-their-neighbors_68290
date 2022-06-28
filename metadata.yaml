@@ -1,5 +1,8 @@
 _repo: The-Berkeleys-and-their-neighbors_68290
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68290-h/images/cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68290#The-Berkeleys-and-their-neighbors
 gutenberg_issued: '2022-06-11'
 identifiers:
   gutenberg: '68290'
